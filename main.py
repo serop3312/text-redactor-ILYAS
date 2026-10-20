@@ -213,7 +213,7 @@ def main():
         editor.run()
     except KeyboardInterrupt:
         print("\n Выход.")
-    print(" До свидания!")
+    print(" Прощайте")
 
 
 if __name__ == "__main__":
